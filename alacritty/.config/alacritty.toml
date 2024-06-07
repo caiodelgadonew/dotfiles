@@ -1,0 +1,36 @@
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+opacity = 1
+
+[window.dimensions]
+columns = 200
+lines = 40
+
+[window.padding]
+x = 10
+y = 10
+
+[font]
+size = 15
+
+[font.bold]
+family = "SauceCodePro Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "SauceCodePro Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "SauceCodePro Nerd Font"
+style = "Regular"
+
+[font.bold_italic]
+family = "SauceCodePro Nerd Font"
+style = "Bold Italic"
