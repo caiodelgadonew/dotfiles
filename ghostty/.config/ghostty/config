@@ -1,0 +1,7 @@
+theme = catppuccin-mocha
+
+font-family = SauceCodePro Nerd Font 
+font-thicken = true
+
+cursor-color = "light green"
+
